@@ -1,20 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HBO
-http://regioflix.club/Sr_Regio20/mc.php?c=84&f.m3u8
+http://srregio.net/Sr_Regio151120/mc.php?c=84&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HBO 2
-http://regioflix.club/Sr_Regio20/mc.php?c=85&f.m3u8
+http://srregio.net/Sr_Regio151120/mc.php?c=85&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HBO Family
-http://regioflix.club/Sr_Regio20/mc.php?c=86&f.m3u8
+http://srregio.net/Sr_Regio151120/mc.php?c=86&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HBO Signature
-http://regioflix.club/Sr_Regio20/mc.php?c=87&f.m3u8
+http://srregio.net/Sr_Regio151120/mc.php?c=87&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HBO Subtitulado
-http://regioflix.club/Sr_Regio20/mc.php?c=88&f.m3u8
+http://srregio.net/Sr_Regio151120/mc.php?c=88&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HBO plus
-http://regioflix.club/Sr_Regio20/mc.php?c=89&f.m3u8
+http://srregio.net/Sr_Regio151120/mc.php?c=89&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HBO Pop (Max Up)
-http://regioflix.club/Sr_Regio20/mc.php?c=134&f.m3u8
+http://srregio.net/Sr_Regio151120/mc.php?c=134&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HBO Xtreme (Max Prime)
-http://regioflix.club/Sr_Regio20/mc.php?c=135&f.m3u8
+http://srregio.net/Sr_Regio151120/mc.php?c=135&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HBO Mundi (Max)
-http://regioflix.club/Sr_Regio20/mc.php?c=136&f.m3u8
