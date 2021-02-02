@@ -1,19 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HBO
-http://srregio.net/Sr_Regio151120/mc.php?c=84&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HBO 2
-http://srregio.net/Sr_Regio151120/mc.php?c=85&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HBO Family
-http://srregio.net/Sr_Regio151120/mc.php?c=86&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HBO Signature
-http://srregio.net/Sr_Regio151120/mc.php?c=87&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HBO Subtitulado
-http://srregio.net/Sr_Regio151120/mc.php?c=88&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HBO plus
-http://srregio.net/Sr_Regio151120/mc.php?c=89&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HBO Pop (Max Up)
-http://srregio.net/Sr_Regio151120/mc.php?c=134&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HBO Xtreme (Max Prime)
-http://srregio.net/Sr_Regio151120/mc.php?c=135&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HBO Mundi (Max)
+#EXTINF:-1 group-title="TV PREMIUM 2" logo="https://www.televall.online/gallery/hbo_thumb_wx1w8ql5.png" group-title="TV PREMIUM 2",HBO
+https://blackghost.live/play/tlvall-202.php?c=1467&f=.m2u8
+#EXTINF:-1 group-title="TV PREMIUM 2" logo="https://www.televall.online/gallery/hbo-2_thumb_vyp8f066.png" group-title="TV PREMIUM 2",HBO 2
+https://blackghost.live/play/tlvall-202.php?c=1555&f=.m2u8
+#EXTINF:-1 group-title="TV PREMIUM 2" logo="https://www.televall.online/gallery/hbo-plus_thumb_2h7s6nr9.png" group-title="TV PREMIUM 2",HBO Plus
+https://blackghost.live/play/tlvall-202.php?c=1557&f=.m2u8
+#EXTINF:-1 group-title="TV PREMIUM 2" logo="https://www.televall.online/gallery/HBO_Family_thumb_qwllugt1.png" group-title="TV PREMIUM 2",HBO Family
+https://blackghost.live/play/tlvall-202.php?c=1556&f=.m2u8
+#EXTINF:-1 group-title="TV PREMIUM 2" logo="https://www.televall.online/gallery/hboMundi_thumb_by0n2x6x.png" group-title="TV PREMIUM 2",HBO Mundi (Max)
+https://blackghost.live/play/tlvall-202.php?c=1535&f=.m2u8
+#EXTINF:-1 group-title="TV PREMIUM 2" logo="https://www.televall.online/gallery/hbo-pop_thumb.png" group-title="TV PREMIUM 2",HBO POP (Max Up)
+https://blackghost.live/play/tlvall-202.php?c=1855&f=.m2u8
+#EXTINF:-1 group-title="TV PREMIUM 2" logo="https://www.televall.online/gallery/hbo-signature_thumb_3wbwdlup.png" group-title="TV PREMIUM 2",HBO Signature
+https://blackghost.live/play/tlvall-202.php?c=229&f=.m2u8
+#EXTINF:-1 group-title="TV PREMIUM 2" logo="https://www.televall.online/gallery/hbo-xtreme_thumb.png" group-title="TV PREMIUM 2",HBO Xtreme (Max Prime)
+https://blackghost.live/play/tlvall-202.php?c=1536&f=.m2u8
