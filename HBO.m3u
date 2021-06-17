@@ -1,155 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="HBO + Latinoamerica" tvg-logo="" group-title="Lista TV2",HBO + Latinoamerica
-http://ipeteve.com/php/SR_REGIO_281119/regiotv.php?c=309&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 Latinoamerica" tvg-logo="" group-title="Lista TV2",HBO 2 Latinoamerica
-http://ipeteve.com/php/SR_REGIO_281119/regiotv.php?c=310&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family Latinoamerica" tvg-logo="" group-title="Lista TV2",HBO Family Latinoamerica
-http://ipeteve.com/php/SR_REGIO_281119/regiotv.php?c=311&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO LatinoamÃ©rica" tvg-logo="" group-title="Lista TV2",HBO LatinoamÃ©rica
-http://ipeteve.com/php/SR_REGIO_281119/regiotv.php?c=312&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Xtreme" tvg-logo="" group-title="Lista TV2",Hbo Xtreme
-http://ipeteve.com/php/SR_REGIO_281119/regiotv.php?c=313&f=.m3u8
 
-#EXTM3U
-
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", RT Esp
-https://rt-esp.secure.footprint.net/1102.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", France 24 Esp
-https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", DW Esp
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", NASA Public
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", Milenio
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", America TeVe
-https://americateve-rokuus.amagi.tv/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", Mega Tv Puerto Rico
-https://livestream.lamusica.com/megatvlive/ngrp:megatvlive_all/.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", Telemundo Chicago
-https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", ForoTV
-https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", Multimedios MTY
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", Multimedios Laguna
-https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", Multimedios Guadalajara
-https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", Multimedios Puebla
-https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", Multimedios Bajio
-https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", Multimedios Saltillo
-https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", Multimedios Costa Rica
-https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", Teleritmo
-https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", Multimedios Cd Juarez
-https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", Canal Once Nacional
-https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", Canal Once Internacional
-https://live2.canaloncelive.tv/livepkgr2/internacional.smil/.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", Quiero Tv
-https://quierotvlive.tk/httplive/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", Mexiquense Tv
-https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIwIDEyOjAzOjA4IEFNJmhhc2hfdmFsdWU9SzRBYWVRSjY4WGMyeWZZVDZYdHExQT09JnZhbGlkbWludXRlcz01JmlkPQ==
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", Grupo Formula
-https://wms40.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", Canal 26 Aguascalientes
-http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", Canal 22
-https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIwIDEyOjA3OjI4IEFNJmhhc2hfdmFsdWU9S0Q4QVZDMTY5cE1sQi9jUDZkaVpoUT09JnZhbGlkbWludXRlcz01JmlkPQ==
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", TV 4.1
-https://5ca3e84a76d30.streamlock.net/tv4/tv4.smil/.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", TV 4.2
-https://5ca3e84a76d30.streamlock.net/tv42/tv42.smil/.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", TV 4.3
-https://5ca3e84a76d30.streamlock.net/tv43/tv43.smil/.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", Canal 7 Jujuy Argentina
-https://59d52c5a5ce5e.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", El Tres Arg
-https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", NET TV
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", Multivision Arg
-https://panel.dattalive.com/8250/8250/.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", COSMO
-http://91.126.141.201:1935/live/cosmoHD/.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", Cine Estelar Pluto
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", Cine Pluto
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", Cine Accion
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", Cine Terror
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", Investiga Pluto
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", Spikes Adventures Pluto
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", Realities Pluto
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b4d71754e6a4298d086e/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", Cocina Pluto
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", Naturaleza Pluto
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", Nick Clasico
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", Locomotion
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", France 24 Esp
-https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNOS", DW Esp
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-
+#EXTINF:-1  group-title="PhoenixDreamsTV", HBO
+http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=hboes&f=.m3u8
+#EXTINF:-1  group-title="PhoenixDreamsTV", HBO 2
+http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=hbo2&f=.m3u8
+#EXTINF:-1  group-title="PhoenixDreamsTV", HBO PLUS
+http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=hboplus&f=.m3u8
+#EXTINF:-1  group-title="PhoenixDreamsTV", HBO FAMILY
+http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=hbofamily&f=.m3u8
+#EXTINF:-1  group-title="PhoenixDreamsTV", HBO MUNDI
+http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=hbomundi&f=.m3u8
+#EXTINF:-1  group-title="PhoenixDreamsTV", HBO POP
+http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=hbopop&f=.m3u8
+#EXTINF:-1  group-title="PhoenixDreamsTV", HBO SIGNATURE
+http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=hbosignature&f=.m3u8
+#EXTINF:-1  group-title="PhoenixDreamsTV", HBO XTREME
+http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=hboxtreme&f=.m3u8
