@@ -1,51 +1,87 @@
 #EXTM3U
 
+#EXTINF:-1  group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-HBO-plus.png",CINE| HBO +
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102376.ts
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-HBO-xtream.png",CINE| HBO Xtreme
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102382.ts
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-HBO-mundi.png",CINE| HBO Mundi
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102379.ts
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-HBO-pop.png",CINE| HBO POP
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102380.ts
 
-#EXTINF:-1  group-title="HBO",Phoenix´DreamsTV | HBO
-http://odenfull.co:2086/142536/142536/108658
-#EXTINF:-1  group-title="HBO",Phoenix´DreamsTV | HBO
-http://odenfull.co:2086/142536/142536/108659
-#EXTINF:-1  group-title="HBO",Phoenix´DreamsTV | HBO EAST
-http://odenfull.co:2086/142536/142536/108661
-#EXTINF:-1  group-title="HBO",Phoenix´DreamsTV | HBO EAST
-http://odenfull.co:2086/142536/142536/108663
-#EXTINF:-1  group-title="HBO",Phoenix´DreamsTV | HBO WEST
-http://odenfull.co:2086/142536/142536/108685
-#EXTINF:-1  group-title="HBO",Phoenix´DreamsTV | HBO WEST
-http://odenfull.co:2086/142536/142536/108687
-#EXTINF:-1  group-title="HBO",Phoenix´DreamsTV | HBO FAMILY
-http://odenfull.co:2086/142536/142536/108692
-#EXTINF:-1  group-title="HBO",Phoenix´DreamsTV | HBO FAMILY
-http://odenfull.co:2086/142536/142536/108694
-#EXTINF:-1  group-title="HBO",Phoenix´DreamsTV | HBO 2
-http://odenfull.co:2086/142536/142536/108696
-#EXTINF:-1  group-title="HBO",Phoenix´DreamsTV | HBO 2
-http://odenfull.co:2086/142536/142536/108697
-#EXTINF:-1  group-title="HBO",Phoenix´DreamsTV | HBO 2 WEST
-http://odenfull.co:2086/142536/142536/108698
-#EXTINF:-1  group-title="HBO",Phoenix´DreamsTV | HBO 2 WEST
-http://odenfull.co:2086/142536/142536/108700
-#EXTINF:-1  group-title="HBO",Phoenix´DreamsTV | HBO 2 EAST
-http://odenfull.co:2086/142536/142536/108702
-#EXTINF:-1  group-title="HBO",Phoenix´DreamsTV | HBO 2 EAST
-http://odenfull.co:2086/142536/142536/108704
-#EXTINF:-1  group-title="HBO",Phoenix´DreamsTV | HBO +
-http://odenfull.co:2086/142536/142536/108707
-#EXTINF:-1  group-title="HBO",Phoenix´DreamsTV | HBO +
-http://odenfull.co:2086/142536/142536/108708
-#EXTINF:-1  group-title="HBO",Phoenix´DreamsTV | HBO SIGNATURE
-http://odenfull.co:2086/142536/142536/108709
-#EXTINF:-1  group-title="HBO",Phoenix´DreamsTV | HBO SIGNATURE
-http://odenfull.co:2086/142536/142536/108710
-#EXTINF:-1  group-title="HBO",Phoenix´DreamsTV | HBO POP
-http://odenfull.co:2086/142536/142536/108711
-#EXTINF:-1  group-title="HBO",Phoenix´DreamsTV | HBO POP
-http://odenfull.co:2086/142536/142536/108712
-#EXTINF:-1  group-title="HBO",Phoenix´DreamsTV | HBO XTREME
-http://odenfull.co:2086/142536/142536/108713
-#EXTINF:-1  group-title="HBO",Phoenix´DreamsTV | HBO XTREME
-http://odenfull.co:2086/142536/142536/108715
-#EXTINF:-1  group-title="HBO",Phoenix´DreamsTV | HBO MUNDI
-http://odenfull.co:2086/142536/142536/108719
-#EXTINF:-1  group-title="HBO",Phoenix´DreamsTV | HBO MUNDI
-http://odenfull.co:2086/142536/142536/108721
+
+
+#EXTINF:-1 group-title="HBO",HBO
+http://iptvglobal.site:25461/rrtv/rrtv12345/87462
+#EXTINF:-1 group-title="HBO",HBO 2
+http://iptvglobal.site:25461/rrtv/rrtv12345/131122
+#EXTINF:-1 group-title="HBO",HBO Plus
+http://iptvglobal.site:25461/rrtv/rrtv12345/87463
+#EXTINF:-1 group-title="HBO",Hbo Plus
+http://iptvglobal.site:25461/rrtv/rrtv12345/131117
+#EXTINF:-1 group-title="HBO",HBO PLUS
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126307
+#EXTINF:-1 group-title="HBO",Hbo Family
+http://iptvglobal.site:25461/rrtv/rrtv12345/131118
+
+#EXTINF:-1 group-title="|MEX| Cine Premium" tvg-logo="https://static.epg.best/cz/HBO.cz.png",CINE FHD HBO (N)
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/345
+
+#EXTINF:-1 group-title="|MEX| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png",HBO SIGNATURE FHD
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/218747
+#EXTINF:-1 group-title="|MEX| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png",HBO 2 4K
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/218716
+#EXTINF:-1 group-title="|MEX| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png",HBO Family 4K
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/218717
+#EXTINF:-1 group-title="|MEX| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png",HBO 4K
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/218718
+#EXTINF:-1 group-title="|MEX| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png",HBO POP 4K
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/218719
+#EXTINF:-1 group-title="|MEX| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png",HBO XTREME 4K
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/218720
+#EXTINF:-1 group-title="|MEX| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png",HBO
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/218721
+#EXTINF:-1 group-title="|MEX| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png",HBO MUNDI
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/218722
+#EXTINF:-1 group-title="|MEX| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png",HBO Family HD
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/218724
+#EXTINF:-1 group-title="|MEX| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png",HBO 4K+
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/218725
+#EXTINF:-1 group-title="|MEX| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png",HBO Plus 4K+
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/218726
+#EXTINF:-1 group-title="|MEX| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png",HBO XTREME 4K+
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/218727
+#EXTINF:-1 group-title="|MEX| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png",HBO2 4K+
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/218728
+#EXTINF:-1 group-title="|MEX| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png",HBO SIGNATURE FHD
+http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/218747
+#EXTINF:-1 group-title="|MEX| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png",HBO 2 4K
+http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/218716
+#EXTINF:-1 group-title="|MEX| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png",HBO Family 4K
+http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/218717
+#EXTINF:-1 group-title="|MEX| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png",HBO 4K
+http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/218718
+#EXTINF:-1 group-title="|MEX| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png",HBO POP 4K
+http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/218719
+#EXTINF:-1 group-title="|MEX| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png",HBO XTREME 4K
+http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/218720
+#EXTINF:-1 group-title="|MEX| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png",HBO
+http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/218721
+#EXTINF:-1 group-title="|MEX| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png",HBO MUNDI
+http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/218722
+#EXTINF:-1 group-title="|MEX| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png",HBO2
+http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/218723
+#EXTINF:-1 group-title="|MEX| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png",HBO Family HD
+http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/218724
+#EXTINF:-1 group-title="|MEX| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png",HBO 4K+
+http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/218725
+#EXTINF:-1 group-title="|MEX| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png",HBO Plus 4K+
+http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/218726
+#EXTINF:-1 group-title="|MEX| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png",HBO XTREME 4K+
+http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/218727
+#EXTINF:-1 group-title="|MEX| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png",HBO2 4K+
+http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/218728
+
+#EXTINF:-1 group-title="|MEX| Cine Premium" tvg-logo="https://static.epg.best/cz/HBO.cz.png",CINE FHD HBO (N)
+http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/345
+
